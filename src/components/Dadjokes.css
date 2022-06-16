@@ -1,0 +1,35 @@
+.dadjokes {
+  padding: 1em;
+}
+
+.dadjokes-title {
+  text-transform: uppercase;
+}
+
+.btn {
+  padding: 1em;
+  background-color: blueviolet;
+  border: none;
+  border-radius: .25em;
+  color: white;
+  font-weight: 600;
+  margin-inline: 1em;
+  cursor: pointer;
+}
+
+.btn-error {
+  background-color: darkred;
+}
+
+.dadjokes-error,
+.dadjokes-joke {
+  background-color: #00FF00;
+  border-radius: .5em;
+  padding: 1em;
+}
+
+.dadjokes-error {
+  background-color: #FF0000;
+  color: white;
+  font-weight: 600;
+}
